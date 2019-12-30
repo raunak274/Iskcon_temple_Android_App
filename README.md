@@ -1,6 +1,6 @@
 # Iskcon_Temple_Android_Application
 Developed by: 
-Sajal Suhane; Juhi Malkani; Ravi Mishra; Raunak Kumar
+Raunak Kumar; Sajal Suhane; Juhi Malkani; Ravi Mishra
 
 Background:
 Suitable for all API levels
